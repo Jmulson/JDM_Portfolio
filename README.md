@@ -8,16 +8,13 @@ B.S. in Statistics | Minor in Data Science | CSU California Polytechnic State Un
 # Projects
 
 ## Project 1: Extracting Data
-#### Skills: Web Scraping, Data Visualization
+#### Skills: Web Scraping, Sentiment Analysis, Data Visualization
 
 ## Project 2: Security Breach Analysis
-#### Skills: Big Data Collection, Data Analysis
+#### Skills: Big Data, Machine Learning, Data Analysis
 
-## Project 3: ETL Project
-#### Skills: Unknown
+## Project 3: ETL Project (Pipeline for Real-Time Processing in Music Applications)
+#### Skills: Data Pipeline, API, Apache Spark (for the streaming process), Cassandra (for storing the real-time data), Data Visualization
 
-## Project 4: Pipeline for Real-Time Data Processing in Music Applications
-#### Skills: API, Data Pipeline, Apache Spark (for the streaming process), Cassandra (for storing the real-time data), Data Visualization
-
-## Project 5: Smart Cities Using Big Data
-#### Skills: Unknown
+## Project 4: Data Repository (Smart Cities Using Big Data)
+#### Skills: Big Data, Data Repository, OpenVINO, Data Analysis, Data Visualization
