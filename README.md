@@ -1,7 +1,7 @@
 # Data Engineering Portfolio
 
 #### Technical Skills: Python (NumPy, Pandas, Matplotlib), SQL, AWS (Sagemaker, S3)
-#### Technical Skills (in progress): Big Data Tools (Hadoop (MapReduce, Kafka)), Apache Spark/Databricks
+#### Technical Skills (in progress): Big Data Tools (Hadoop (MapReduce, Kafka)), Apache Spark/Databricks, Microsoft Azure
 
 ## Education
 B.S. in Statistics | Minor in Data Science | CSU California Polytechnic State University, San Luis Obispo (_June 2023_)
