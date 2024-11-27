@@ -20,7 +20,7 @@ Phase 1: Foundational Projects
 
 Phase 2: Intermediate Projects
 - Data Warehousing with Star Schema for Crime Analysis
-- Interactive Dashboard Using Tableau
+- Interactive Dashboard Using Tableau and Power BI
 - API Development for Public Safety Data Access
 
 Phase 3: Advanced Projects
@@ -28,14 +28,38 @@ Phase 3: Advanced Projects
 - Batch Processing and Aggregation with Apache Spark
 - Predictive Modeling for Crime Forecasting
 
-## Project 1: Extracting Data
-#### Skills: Web Scraping, Sentiment Analysis, Data Visualization
+# Phase 1: Foundation Projects
 
-## Project 2: Security Breach Analysis
-#### Skills: Big Data, Machine Learning, Data Analysis
+## Project 1: Data Pipeline for Ingesting Public Safety Data
+#### Skills: 
 
-## Project 3: ETL Project (Pipeline for Real-Time Processing in Music Applications)
-#### Skills: Data Pipeline, API, Apache Spark (for the streaming process), Cassandra (for storing the real-time data), Data Visualization
+## Project 2: Database Schema Design and SQL Optimization
+#### Skills:
 
-## Project 4: Data Repository (Smart Cities Using Big Data)
-#### Skills: Big Data, Data Repository, OpenVINO, Data Analysis, Data Visualization
+## Project 3: Data Lake for Storage of Unstructured Data
+#### Skills:
+
+## Project 4: Automated Data Cleaning and Transformation Pipeline
+#### Skills:
+
+# Phase 2: Intermediate Projects
+
+## Project 5: Data Warehousing with Star Schema for Crime Analysis
+#### Skills: 
+
+## Project 6: Interactive Dashboard Using Tableau and Power BI
+#### Skills:
+
+## Project 7: API Development for Public Safety Data Access
+#### Skills:
+
+# Phase 3: Advanced Projects
+
+## Project 8: Streaming Data with Kafka
+#### Skills: 
+
+## Project 9: Batch Processing and Aggregation with Apache Spark
+#### Skills:
+
+## Project 10: Predictive Modeling for Crime Forecasting
+#### Skills:
