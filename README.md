@@ -3,8 +3,8 @@
 ---
 
 ## **Technical Skills**
-- **Current**: Python (NumPy, Pandas, Matplotlib, PySpark), SQL, AWS (S3, SageMaker), Tableau, Power BI, Kafka, Apache Spark.  
-- **In Progress**: Big Data Tools (Hadoop, Kafka), Databricks, Microsoft Azure, OpenVINO.
+- **Current**: Python (NumPy, Pandas, Matplotlib, PySpark), SQL (MySQL), AWS (S3, SageMaker) 
+- **In Progress**: UPDATE
 
 ---
 
@@ -37,9 +37,9 @@ This portfolio showcases end-to-end data engineering capabilities, covering ETL,
 ### **Phase 1: Foundational Projects**
 
 #### **Project 1: Data Pipeline for Ingesting Public Safety Data**
-- **Skills**: ETL, Python, SQL, AWS S3  
-- **Description**: Build an ETL pipeline to ingest data from the LAPD dataset into a relational database. Automate data extraction, transformation, and loading processes to ensure clean and consistent data.  
-- **Programs Used**: 
+- **Skills**: ETL, Python (Pandas, Requests), PostgreSQL, Airflow 
+- **Description**: Develop an ETL pipeline to ingest LAPD data into a PostgreSQL database. Leverage Airflow to automate data extraction, transformation, and loading, ensuring data quality and consistency. 
+- **Programs Used**: Jupyter Notebook, PostgreSQL, Airflow
 
 #### **Project 2: Database Schema Design and SQL Optimization**
 - **Skills**: Database schema design, SQL indexing, performance tuning  
@@ -81,7 +81,7 @@ This portfolio showcases end-to-end data engineering capabilities, covering ETL,
 
 #### **Project 8: Streaming Data with Kafka**
 - **Skills**: Real-Time Data Processing, Kafka Topics, Partitioning  
-- **Description**: Use Kafka to process real-time event data from the Smart-City CCTV dataset. Analyze traffic patterns and detect anomalies in realtime.  
+- **Description**: Use Kafka to process real-time event data from the Smart-City CCTV dataset. Analyze traffic patterns and detect anomalies in real-time.  
 - **Programs Used**: 
 
 #### **Project 9: Batch Processing and Aggregation with Apache Spark**
@@ -94,3 +94,18 @@ This portfolio showcases end-to-end data engineering capabilities, covering ETL,
 - **Description**: Train and validate predictive models to forecast crime trends using historical CCTV data. Use AWS SageMaker to streamline the ML workflow.  
 - **Programs Used**: 
 
+
+# Personal Project Portfolio Status
+
+| **Project Name**                              | **Phase**             | **Status**         |
+|-----------------------------------------------|-----------------------|--------------------|
+| Data Pipeline for Ingesting Public Safety Data| Foundational (Phase 1)| In Progress        |
+| Database Schema Design and SQL Optimization   | Foundational (Phase 1)| Not Started        |
+| Data Lake for Storage of Unstructured Data    | Foundational (Phase 1)| Not Started        |
+| Automated Data Cleaning and Transformation    | Foundational (Phase 1)| Not Started        |
+| Data Warehousing with Star Schema             | Intermediate (Phase 2)| Not Started        |
+| Interactive Dashboard Using Tableau           | Intermediate (Phase 2)| Not Started        |
+| API Development for Public Safety Data Access | Intermediate (Phase 2)| Not Started        |
+| Streaming Data with Kafka                     | Advanced (Phase 3)    | Not Started        |
+| Batch Processing and Aggregation with Spark   | Advanced (Phase 3)    | Not Started        |
+| Predictive Modeling for Crime Forecasting     | Advanced (Phase 3)    | Not Started        |
