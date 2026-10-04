@@ -15,13 +15,17 @@ Projects emphasize transforming fragmented or complex data into actionable analy
 ## **Featured Projects**
 
 ### **Project 1: Healthcare Fraud Detection & Investigation System**
-Develop an analytical system for identifying unusual healthcare billing behavior and prioritizing entities for further investigation.
+Develop a reproducible investigative analytics system using synthetic Medicare claims data to identify unusual healthcare billing patterns, generate investigative leads, and prioritize entities or relationships for further review.
 
 Primary Focus:
-- Fraud analytics
-- Statistical analysis
+- Medicare claims analytics
+- Healthcare fraud analytics
+- Statistical and peer-group analysis
 - Anomaly detection
+- Provider and beneficiary relationship analysis
+- Investigative lead generation
 - Investigative prioritization
+- Data engineering and reproducible analysis
 
 ### **Project 2: Criminal Network Intelligence Analysis**
 Reconstruct a publicly documented criminal network using open-source information and analyze the relationships between individuals, organizations, businesses, and locations.
